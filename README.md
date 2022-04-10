@@ -37,8 +37,8 @@ En el presente proyecto se elaboraron 5 clases de la cuales 1 es abstracta y 3 i
 - Métodos
 - Modificadores de acceso
 - Método constructor
-- Abstracción
-- interface
+- Abstracciones
+- interfaces
 - polimorfismo, etc.
 
 ### Clases Implementadas
