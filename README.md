@@ -16,7 +16,7 @@ Este proyecto tiene como finalidad cumplir con los requisitos mínimos exigidos 
 
 ## DESCRIPCION
 
-A partir de la interpretación del texto, se decidió implementar un sistema que simule las funciones de una fábrica de naves espaciales, la cual brinda al usuario una interfaz por donde se le solicita información relacionada con detalles de relevancia para el proceso de fabricación de la nave.
+A partir de la interpretación del texto, se decidió implementar un sistema que simule las funciones de una fábrica de naves espaciales, la cual brinda al usuario una interfaz donde se le solicita información relacionada con detalles de relevancia para el proceso de fabricación de la nave.
 
 La fábrica cuenta en su catálogo con una variedad de 4 tipos de naves, que son:
 
