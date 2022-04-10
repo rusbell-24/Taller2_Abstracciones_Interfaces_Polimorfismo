@@ -2,7 +2,7 @@
 
 ## INTRODUCCION
 
-Este proyecto tiene como finalidad cumplir con los requisitos mínimos exigidos para la entrega del segundo taller (Manejo de Abstracciones, interfaces y polimorfismo), en el cual se llevó a cabo la interpretación de un tema principal dato por la documentación (Naves espaciales), con la finalidad de extraer información relevante que permitiera el cumplimiento de los siguientes requisitos:
+Este proyecto tiene como finalidad cumplir con los requisitos mínimos exigidos para la entrega del segundo taller (Manejo de Abstracciones, interfaces y polimorfismo), en el cual se llevó a cabo la interpretación de un tema principal brindado por la documentación (Naves espaciales), con la finalidad de extraer información relevante que permitiera el cumplimiento de los siguientes requisitos:
 
 1.  Realizar una extracción de atributos genéricos abstractos e interfaces, que puedas identificar en el artículo. Crear las interfaces y clases abstractas que creas convenientes según la lectura.
 
@@ -16,7 +16,7 @@ Este proyecto tiene como finalidad cumplir con los requisitos mínimos exigidos 
 
 ## DESCRIPCION
 
-A partir de la interpretación del texto, se decidió implementar un sistema que simule las funciones de una fábrica de naves espaciales, la cual brinda al usuario una interfaz por medio de la que se le solicita información relacionada con detalles de relevancia para el proceso de fabricación de la nave.
+A partir de la interpretación del texto, se decidió implementar un sistema que simule las funciones de una fábrica de naves espaciales, la cual brinda al usuario una interfaz por donde se le solicita información relacionada con detalles de relevancia para el proceso de fabricación de la nave.
 
 La fábrica cuenta en su catálogo con una variedad de 4 tipos de naves, que son:
 
